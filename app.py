@@ -8,9 +8,9 @@ from datetime import date
 # -----------------------------
 # Page Config
 # -----------------------------
-st.set_page_config(page_title="Portfolio Perfomance & Risk Analytics Dashboard", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Portfolio Analytics Dashboard", page_icon="📈", layout="wide")
 
-st.title("📈 Portfolio Analytics Dashboard")
+st.title("📈 Portfolio Perfomance & Risk Analytics Dashboard")
 st.caption("Python + Streamlit | Portfolio performance & risk monitoring")
 
 st.markdown(
